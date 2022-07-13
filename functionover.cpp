@@ -77,7 +77,7 @@ int main()
 
     // Changing return value
     int fun();
-    float fun();
+    flloat fun();
 
 
 
